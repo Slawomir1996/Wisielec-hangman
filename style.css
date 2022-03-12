@@ -54,16 +54,16 @@ margin: auto;
 
 }
 .letter:hover{
-   width: auto;
-   height: auto;
+    width: 20px;
+    height: 26px;
     background-color: #222222;
     color: white;
     border:3px solid white
 }
 .corectStr{
     font-size: 24px;
-    width: auto;
-    height: auto;
+    width: 20px;
+    height: 28px;
     text-align: center;
     padding: 5px;
     margin: 5px;
@@ -76,8 +76,8 @@ margin: auto;
 }
 .faulStr{
     font-size: 24px;
-    width: auto;
-    height: auto;
+    width: 20px;
+    height: 28px;
     text-align: center;
     padding: 5px;
     margin: 5px;
@@ -88,6 +88,7 @@ margin: auto;
      border:2px solid white;
     color:white;
 }
+
 
 
 @media screen and (min-width: 450px) {
@@ -102,7 +103,7 @@ margin: auto;
 
 .letter{
 width: 20px;
-height: 29px;
+height: 28px;
 
 }
 .alphabet{
